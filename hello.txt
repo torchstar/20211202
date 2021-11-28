@@ -7,6 +7,7 @@ hello javascript
 test
 
 
+hot fix  add info
 
 
 hello
